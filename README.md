@@ -1,111 +1,111 @@
-<h1 align="center">Hi, I'm Andreas Cristian 👋</h1>
+<!-- Animated Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Hi%20I'm%20Andreas%20Cristian&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <p align="center">
-  <b>Software Engineer • Full-Stack Developer • AI Engineering</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Developer;AI+Engineering;System+Architecture+Focused;Production-Ready+Builder;Scalable+System+Designer" />
 </p>
 
 <p align="center">
-  <a href="https://andreascristian.site">Portfolio</a> •
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
-  <a href="mailto:andreascristian086@gmail.com">Email</a>
+  <a href="https://www.andreascristian.site/">🌐 Portfolio</a> •
+  <a href="https://www.instagram.com/a.chrizzz">📸 Instagram</a> •
+  <a href="mailto:andreascristian086@gmail.com">📩 Email</a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I design and build **production-ready full-stack systems** with a focus on scalability, performance, and intelligent automation.
+I architect and build **production-grade full-stack systems** that combine scalable backend engineering, high-performance frontend interfaces, and AI-powered automation.
 
-Currently focused on:
-- System architecture & scalable web platforms
-- AI-assisted workflows & automation
-- Payment integrations & event-driven systems
-- Modern frontend engineering with interactive 3D interfaces
+My engineering focus includes:
+
+- Designing scalable system architecture
+- Event-driven workflows & payment orchestration
+- AI-assisted product automation (Gemini / OpenAI)
+- Secure authentication & transactional systems
+- Interactive 3D web interfaces with performance optimization
+
+> I don’t just build applications — I design systems.
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Core Technology Stack
 
-### 👨‍💻 Programming
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go)
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-0F2027?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F2027?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F2027?style=for-the-badge&logo=typescript)
+![Go](https://img.shields.io/badge/Go-0F2027?style=for-the-badge&logo=go)
+![PHP](https://img.shields.io/badge/PHP-0F2027?style=for-the-badge&logo=php)
+![Java](https://img.shields.io/badge/Java-0F2027?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/C%2B%2B-0F2027?style=for-the-badge&logo=cplusplus)
 
-### 🌐 Frontend & Backend
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
-![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss)
+### 🌐 Frontend & Backend Engineering
+![React](https://img.shields.io/badge/React-0F2027?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0F2027?style=for-the-badge&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-0F2027?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-0F2027?style=for-the-badge&logo=express)
+![Tailwind](https://img.shields.io/badge/Tailwind-0F2027?style=for-the-badge&logo=tailwindcss)
+![Three.js](https://img.shields.io/badge/Three.js-0F2027?style=for-the-badge&logo=three.js)
 
-### 🗄 Database & Infra
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+### 🗄 Database & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F2027?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-0F2027?style=for-the-badge&logo=mongodb)
+![Prisma](https://img.shields.io/badge/Prisma-0F2027?style=for-the-badge&logo=prisma)
+![Docker](https://img.shields.io/badge/Docker-0F2027?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-0F2027?style=for-the-badge&logo=linux)
 
 ### 🤖 AI & Automation
-![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow)
-![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai)
-![Gemini](https://img.shields.io/badge/Gemini-000?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-0F2027?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0F2027?style=for-the-badge&logo=tensorflow)
+![OpenAI](https://img.shields.io/badge/OpenAI-0F2027?style=for-the-badge&logo=openai)
+![Gemini](https://img.shields.io/badge/Gemini-0F2027?style=for-the-badge)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Engineering Projects
 
-### 🔥 Chrizyfy – Multi-Vendor E-Commerce Platform
+### 🔥 Chrizyfy — Multi-Vendor E-Commerce Platform
 
-Production-ready e-commerce system built with modern architecture.
+Production-ready commerce platform engineered with scalable architecture and AI-assisted automation.
 
-- Multi-store checkout & integrated payments (Midtrans)
-- AI-powered product generation from images (Gemini API)
-- Event-driven background jobs (Inngest)
+**Engineering Highlights**
+- Multi-store checkout & payment orchestration (Midtrans)
+- AI-based product metadata generation from images (Gemini API)
+- Event-driven background processing (Inngest)
 - Prisma ORM + PostgreSQL (NeonDB)
-- Secure authentication (Clerk)
+- Secure authentication & access control (Clerk)
 
-🔗 [View Repository](#)
+🔗 [🚀 View Live Platform](https://www.chrizyfy.xyz)
 
 ---
 
-### 🎱 ChrizzBilliard – Real-Time Booking Platform
+### 🎱 ChrizzBilliard — Real-Time Booking Platform
 
-Full-stack booking system with secure payments and interactive UI.
+Full-stack booking infrastructure with secure payments and interactive 3D interface.
 
+**Engineering Highlights**
 - Real-time availability system
-- Express.js REST API backend
-- MongoDB (Mongoose)
-- Midtrans & Stripe payment integration
-- 3D interactive frontend (Three.js)
+- RESTful backend architecture (Express.js)
+- MongoDB with structured data modeling (Mongoose)
+- Payment integration (Midtrans & Stripe)
+- Interactive UI with Three.js & modern React stack
 
-🔗 [View Repository](#)
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true" />
-</p>
+🔗 [🚀 View Live Platform](https://www.chrizzbilliard.store)
 
 ---
 
-## 🎯 Engineering Philosophy
+## 🎯 Philosophy
 
-> Build systems that are scalable, secure, and intelligent — not just functional.
-
----
-
-## 🤝 Let’s Connect
-
-If you're interested in collaborating, building something impactful, or discussing system design — feel free to reach out.
+> Build scalable, secure, and intelligent systems — not just functional software.
 
 ---
 
+## 🤝 Let’s Build Something Impactful
+
+If you're interested in collaboration, system design discussions, or building next-generation platforms — feel free to connect.
+
+---
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
